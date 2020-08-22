@@ -1,2 +1,2 @@
 # Coursera_Capstone
-Capstone Project Notebook
+This repository will be used for IBM Data Science Capstone Project.
