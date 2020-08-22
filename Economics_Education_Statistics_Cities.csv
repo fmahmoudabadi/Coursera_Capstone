@@ -1,0 +1,16 @@
+﻿OBJECTID,NAME,Household income (Med),ed_lt_hs,ed_hsgrad,ed_partcoll,ed_collgrad,ed_hs
+1,Milpitas,99447,15,18,26,41,33
+2,Gilroy,78842,23,19,32,26,42
+3,Morgan Hill,94300,12,19,32,38,31
+4,Monte Sereno,231898,,8,19,72,8
+5,Saratoga,157439,2,5,15,78,7
+6,Campbell,84692,7,17,29,47,24
+7,Cupertino,127534,3,6,15,76,9
+8,Los Altos Hills,196484,,3,12,83,3
+9,Los Altos,154821,1,5,15,79,6
+10,Santa Clara,92198,8,15,23,54,23
+11,Sunnyvale,96884,9,12,20,59,21
+12,Mountain View,92987,7,11,18,64,18
+13,Palo Alto,122482,3,6,11,80,9
+14,Los Gatos,121933,2,7,22,68,9
+15,San Jose,81349,17,18,26,38,35
